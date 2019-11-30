@@ -1,7 +1,7 @@
 import unittest
 import xmlrunner
 
-start_dir = 'C:\Users\nikhi\Desktop\padhai\college\CLOUD\PyMicroservices-master\PyMicroservices-master\Source'
+start_dir = 'C:\\Users\\nikhi\\micro2\\Source'
 
 def runner(output='python_tests_xml'):
     return xmlrunner.XMLTestRunner(
